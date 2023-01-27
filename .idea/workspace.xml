@@ -1,14 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2ec546b-29f8-40da-97df-1c2624a25a71" name="Changes" comment="" />
+    <list default="true" id="a2ec546b-29f8-40da-97df-1c2624a25a71" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chocolate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FindX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaleStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaleStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SpeedLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpeedLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Stamps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stamps.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KrwafVRbokwL1OrW3mhcCL2Ahs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +38,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Circle">
+    <configuration name="Chocolate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chocolate" />
+      <module name="textbookHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Circle" />
+      <module name="textbookHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Cycle" />
+      <module name="textbookHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindX" />
+      <module name="textbookHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stamps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stamps" />
+      <module name="textbookHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.FindX" />
+        <item itemvalue="Application.Cycle" />
+        <item itemvalue="Application.Stamps" />
+        <item itemvalue="Application.Chocolate" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
