@@ -10,8 +10,7 @@
 
 public class FindX {
     public static void main(String[] args){
-
-        int equationResult = 194;
+        
         int variableX = 194 - 47 - 19 - 5;
 
         System.out.println("X equals " + variableX + ".");

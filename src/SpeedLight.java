@@ -13,7 +13,7 @@ public class SpeedLight {
 
         int soundSpeed = 340;
         int soundDelay = 5;
-        int lightningDistance = soundSpeed * soundDelay;
+        int lightningDistance = soundSpeed * soundDelay; //calculates distance by multiplying velocity by time
 
         System.out.println("The lightning is " + lightningDistance + " meters away.");
     }

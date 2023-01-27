@@ -12,9 +12,9 @@
 public class Cycle {
     public static void main(String[] args){
 
-        int bicycleWheels = 10 * 2;
+        int bicycleWheels = 10 * 2; //Every bike has two wheels.
         int totalWheels = 47;
-        int tricycles = (totalWheels - bicycleWheels) / 3;
+        int tricycles = (totalWheels - bicycleWheels) / 3; //Excluding the bicycles and dividing by amount of wheels on tricyle
 
         System.out.println("There are " + tricycles + " tricycles in the shop.");
 

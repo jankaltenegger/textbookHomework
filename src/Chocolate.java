@@ -16,7 +16,7 @@ public class Chocolate {
         int chocolatesCurrently = 2; //The amount of chocolates that are currently held by one bag
         int chocolatesWanted = 3; //The amount of chocolates wished to be held by one bag.
 
-        int amountBags = (bags * chocolatesCurrently) / chocolatesWanted;
+        int amountBags = (bags * chocolatesCurrently) / chocolatesWanted; //Gets the total amount of chocolate and divides it by 3.
 
         System.out.println("You would need " + amountBags + " bags to hold all chocolates to maximum capacity.");
 
